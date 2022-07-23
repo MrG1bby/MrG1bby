@@ -1,4 +1,8 @@
 <p align=center>
-  <a href="https://ko-fi.com/maximmax42"><img alt="Support on Ko-fi" src="https://img.shields.io/badge/support%20on-ko--fi-19e2e2?logo=ko-fi"></a>
-  <a href="https://www.customrp.xyz/discordserver"><img alt="Discord Server" src="https://img.shields.io/discord/928333025652121630?color=19e2e2&label=server&logo=discord&logoColor=white"></a>
-</p>
+<a href="https://github.com/Obimydudee/Obimydudee">
+<img alt="" src="https://komarev.com/ghpvc/?username=Obimydudee&style=flat-square&color=7a0de0">
+</a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Obimydudee&count_private=true&show_icons=true&bg_color=121212&title_color=7f00ff&text_color=cccccc&icon_color=ac07bf&border_color=7f00ff)
+
+![Top Langs](https://github-readme-stats.vercel.app//api/top-langs/?username=Obimydudee&count_private=true&show_icons=true&bg_color=121212&title_color=7f00ff&text_color=cccccc&icon_color=ac07bf&border_color=7f00ff)
