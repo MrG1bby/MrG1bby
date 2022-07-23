@@ -1,2 +1,3 @@
 
 # VRChat Client 
+[+]: TwixHook.dll
