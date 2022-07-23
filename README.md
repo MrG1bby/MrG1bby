@@ -4,4 +4,4 @@
 * [Sneezes](https://discordapp.com/users/583413274608140288)
 
 ## VRChat Client 
-Twix Client: TwixHook.dll
+** TwixHook: TwixHook.dll **
